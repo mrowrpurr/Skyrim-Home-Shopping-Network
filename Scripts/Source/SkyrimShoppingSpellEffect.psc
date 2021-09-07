@@ -1,0 +1,1 @@
+Scriptname SkyrimShoppingSpellEffect extends ActiveMagicEffect  
