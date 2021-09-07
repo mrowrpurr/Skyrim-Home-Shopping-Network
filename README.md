@@ -1,2 +1,1 @@
-# SkyrimHomeShoppingNetwork
- 🛍️ Skyrim Home Shopping Network 🛍️
+## 🛍️ Welcome to the Skyrim Home Shopping Network! 🛍️
