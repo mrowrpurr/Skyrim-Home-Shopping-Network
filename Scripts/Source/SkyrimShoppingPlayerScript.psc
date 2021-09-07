@@ -1,1 +1,1 @@
-Scriptname SkyrimShoppingPlayerScript extends ReferenceAlias  
+scriptName SkyrimShoppingPlayerScript extends ReferenceAlias  
